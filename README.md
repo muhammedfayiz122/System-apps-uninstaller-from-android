@@ -1,0 +1,1 @@
+# System-apps-uninstaller-from-android
